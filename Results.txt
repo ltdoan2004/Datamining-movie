@@ -1,0 +1,50 @@
+1. Random Forest (ModelEvaluation)
+    Mean Absolute Error (MAE): 0.06355061153356245
+    Root Mean Squared Error (RMSE): 0.11857195819904646
+    Correlation Coefficient: 0.9260541541762888
+    Runtime: 3303365 ms
+
+2. Linear Regression (ModelEvaluation)
+    Mean Absolute Error (MAE): 0.23208977756097215
+    Root Mean Squared Error (RMSE): 0.28080602047052855
+    Correlation Coefficient: 0.4485758691631218
+    Runtime: 21273 ms
+
+3. M5P Decision Tree
+    MAE: 0.06470603352636199
+    RMSE: 0.12091967875957231
+    Correlation: 0.922975038557613
+    Runtime: 456914 ms
+
+4. REPTree:
+   MAE: 0.06531509499663242
+   RMSE: 0.12161440882757844
+   Correlation: 0.9220647713920049
+   Runtime: 108239 ms
+
+
+5. Decision Stump
+   MAE: 0.08219944421999742
+   RMSE: 0.1393073368388978
+   Correlation: 0.8963286076087925
+   Runtime: 23455 ms
+
+
+6. k-Nearest Neighbors
+    K-Nearest Neighbors (K=5):
+    MAE: 0.21924823230417279
+    RMSE: 0.2919715397232476
+    Correlation: 0.42866978374376125
+    Runtime: 14110535 ms
+
+7. Gaussian Processes
+   MAE: 0.025219619590418657
+   RMSE: 0.034958397714793824
+   Correlation: 0.9003957476557691
+   Runtime: 10391401 ms
+
+8. Multilayer Perceptron
+    MAE: 0.2440584126047536
+    RMSE: 0.29774354580744056
+    Correlation: 0.3599832222031329
+    Runtime: 4277818 ms
