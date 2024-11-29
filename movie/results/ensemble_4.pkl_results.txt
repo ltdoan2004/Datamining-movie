@@ -1,0 +1,2 @@
+Model Type: Ensemble (AdaBoost + RandomForest + GradientBoosting + ExtraTrees)Mean Squared Error on Test Set: 0.0145Mean Squared Error for each fold: [0.00355076 0.00515601 0.00981938 0.01669059 0.03761573 0.05914827
+ 0.02344941 0.01243492 0.02043612 0.01853733]Average Mean Squared Error (10-fold CV): 0.0207Training Time: 195.38 secondCross-Validation Time: 440.73 seconds

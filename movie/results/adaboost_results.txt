@@ -1,0 +1,7 @@
+Model Type: adaboost
+Mean Squared Error on Test Set: 0.0168
+Mean Squared Error for each fold: [0.00714629 0.00687391 0.01109817 0.01829361 0.039896   0.06111323
+ 0.01498686 0.0018341  0.00161538 0.00094629]
+Average Mean Squared Error (10-fold CV): 0.0164
+Training Time: 5.27 seconds
+Cross-Validation Time: 15.90 seconds

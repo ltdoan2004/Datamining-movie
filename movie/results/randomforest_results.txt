@@ -1,0 +1,7 @@
+Model Type: randomforest
+Mean Squared Error on Test Set: 0.0146
+Mean Squared Error for each fold: [0.00424336 0.00526183 0.01010724 0.01701292 0.03843063 0.06052295
+ 0.01363671 0.00064456 0.00086974 0.00094957]
+Average Mean Squared Error (10-fold CV): 0.0152
+Training Time: 129.35 seconds
+Cross-Validation Time: 225.35 seconds
