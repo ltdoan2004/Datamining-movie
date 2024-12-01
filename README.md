@@ -162,13 +162,19 @@ visualize_data_new.py: Enhanced version of the visualization script.
 
 model_evaluation_metrics.png: Image showing evaluation metrics of different models.
 
+![model_evaluation_metrics](https://github.com/user-attachments/assets/b36eb432-1f75-4799-8411-3d02e89d38eb)
+
 model_runtime_comparison.png: Image illustrating runtime comparisons across models.
+
+![model_runtime_comparison](https://github.com/user-attachments/assets/37ddd029-90a7-45b1-bc81-e4a2e761ba57)
 
 ## Key Features
 
 -10-Fold Cross-Validation:
 
 Models are evaluated using robust cross-validation techniques to ensure reliable results.
+
+![image](https://github.com/user-attachments/assets/760241ea-1b87-48be-be3d-0cdf71c87a03)
 
 Model Evaluation Metrics:
 
