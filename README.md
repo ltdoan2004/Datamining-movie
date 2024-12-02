@@ -186,13 +186,6 @@ Root Mean Squared Error (RMSE)
 
 Correlation Coefficient
 
--Classification (if applicable):
-
-Accuracy
-
-F1-Score
-
-Confusion Matrix
 
 ## Future Improvements
 
