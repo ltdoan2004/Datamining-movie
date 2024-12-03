@@ -94,9 +94,6 @@ Source:
 
 
 ![Picture4](https://github.com/user-attachments/assets/d23cb6b2-d452-4dbb-b100-911d12d5a82d)
-The image displays a pairplot (scatterplot matrix), typically generated using libraries like Seaborn in Python, to visualize relationships between multiple variables in a dataset. Here’s a descriptive analysis you can add to your repository README to explain this data visualization:
-
----
 
 ### Data Visualization: Pairplot Analysis
 
