@@ -88,6 +88,14 @@ Source:
 
       https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset/data
 
+## Overview Data
+
+![Picture2](https://github.com/user-attachments/assets/a787e823-155c-4ef2-8321-73763672f41c)
+
+
+![Picture4](https://github.com/user-attachments/assets/d23cb6b2-d452-4dbb-b100-911d12d5a82d)
+
+
 ## Classes Overview
 
 -Java Classes
